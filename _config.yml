@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xinyu Wang"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Xinyu Wang"
 description              : &description "personal description"
