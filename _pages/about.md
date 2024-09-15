@@ -11,7 +11,7 @@ Welcome to the homepage of Xinyu Wang (汪欣宇). I am currently a Ph.D. studen
 
 Prior to joining HKU, I received my master's degree from The London School of Economics and Political Science and bachelor's degree from Tsinghua University. You can find the detailed educational background in the sections below.
 
-You may contact me a via email: **xinyu-wang24 at connect.hku.hk**
+You may contact me via email: **xinyu-wang24 at connect.hku.hk**
 
 # Education
 - **The University of Hong Kong** ([HKU](https://www.hku.hk/)) <span style="float: right;">09/2024 - Present</span>
