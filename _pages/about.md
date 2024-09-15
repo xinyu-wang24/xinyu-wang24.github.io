@@ -13,17 +13,17 @@ This is Xinyu Wang (汪欣宇) from Faculty of Business and Economics, The Unive
 
 Education
 ======
--[The University of Hong Kong](https://www.hku.hk/) (HKU) <span style="float: right;">Hong Kong, China</span>
+-[The University of Hong Kong](https://www.hku.hk/) (HKU)
 
 
 **Ph.D. Student**, [Faculty of Business and Economics (HKU Business School)](https://www.hkubs.hku.hk/) <span style="float: right;">09/2024 - Present</span>
 
--[The London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE) <span style="float: right;">London, United Kingdom</span>
+-[The London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE)
 
 
 **Master of Science in Statistics**, [Department of Statistics](https://www.lse.ac.uk/statistics) <span style="float: right;">09/2023 - 07/2024</span>
 
--[Tsinghua University]([https://www.lse.ac.uk/](https://www.tsinghua.edu.cn/)) (THU) <span style="float: right;">Beijing, China</span>
+-[Tsinghua University]([https://www.lse.ac.uk/](https://www.tsinghua.edu.cn/)) (THU)
 
 
 **Bachelor of Management in Information Management and Information Systems**, [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) <span style="float: right;">08/2019 - 06/2023</span>
