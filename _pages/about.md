@@ -21,7 +21,7 @@ Ph.D. Student, [Faculty of Business and Economics](https://www.hkubs.hku.hk/) (a
 - **The London School of Economics and Political Science** ([LSE](https://www.lse.ac.uk/)) <span style="float: right;">09/2023 - 07/2024</span>
 
 
-Master of Science in Statistics, [Department of Statistics](https://www.lse.ac.uk/statistics) 
+Master of Science in Statistics (Graduated with Distinction), [Department of Statistics](https://www.lse.ac.uk/statistics) 
 
 - **Tsinghua University** ([THU](https://www.tsinghua.edu.cn/)) <span style="float: right;">08/2019 - 06/2023</span>
 
