@@ -13,22 +13,21 @@ This is Xinyu Wang (汪欣宇) from Faculty of Business and Economics, The Unive
 
 Education
 ======
--[The University of Hong Kong](https://www.hku.hk/) (HKU)
+-**The University of Hong Kong** ([HKU](https://www.hku.hk/)) <span style="float: right;">09/2024 - Present</span>
 
 
-**Ph.D. Student**, [Faculty of Business and Economics (HKU Business School)](https://www.hkubs.hku.hk/) <span style="float: right;">09/2024 - Present</span>
+Ph.D. Student, [Faculty of Business and Economics (HKU Business School)](https://www.hkubs.hku.hk/) 
 
--[The London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE)
-
-
-**Master of Science in Statistics**, [Department of Statistics](https://www.lse.ac.uk/statistics) <span style="float: right;">09/2023 - 07/2024</span>
-
--[Tsinghua University]([https://www.lse.ac.uk/](https://www.tsinghua.edu.cn/)) (THU)
+-**The London School of Economics and Political Science** ([LSE](https://www.lse.ac.uk/)) <span style="float: right;">08/2019 - 06/2023</span>
 
 
-**Bachelor of Management in Information Management and Information Systems**, [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) <span style="float: right;">08/2019 - 06/2023</span>
+Master of Science in Statistics, [Department of Statistics](https://www.lse.ac.uk/statistics) <span style="float: right;">09/2023 - 07/2024</span>
 
-**Bachelor of Science in Statistics**, [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/) <span style="float: right;">09/2020 - 06/2023</span>
+-**Tsinghua University** ([THU](https://www.tsinghua.edu.cn/)) 
+
+Bachelor of Management in Information Management and Information Systems (Major Degreee), [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) 
+
+Bachelor of Science in Statistics (Minor Degree), [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/) 
 
 Getting started
 ======
