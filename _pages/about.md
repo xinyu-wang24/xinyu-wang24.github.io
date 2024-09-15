@@ -13,12 +13,22 @@ This is Xinyu Wang (汪欣宇) from Faculty of Business and Economics, The Unive
 
 Education
 ======
-[The University of Hong Kong](https://www.hku.hk/) (HKU) <span style="float: right;">Hong Kong, China</span>
+-[The University of Hong Kong](https://www.hku.hk/) (HKU) <span style="float: right;">Hong Kong, China</span>
 
 
 **Ph.D. Student**, [Faculty of Business and Economics (HKU Business School)](https://www.hkubs.hku.hk/) <span style="float: right;">09/2024 - Present</span>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+-[The London School of Economics and Political Science](https://www.lse.ac.uk/) (LSE) <span style="float: right;">London, United Kingdom</span>
+
+
+**Master of Science in Statistics**, [Department of Statistics](https://www.lse.ac.uk/statistics) <span style="float: right;">09/2023 - 07/2024</span>
+
+-[Tsinghua University]([https://www.lse.ac.uk/](https://www.tsinghua.edu.cn/)) (THU) <span style="float: right;">Beijing, China</span>
+
+
+**Bachelor of Management in Information Management and Information Systems**, [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) <span style="float: right;">08/2019 - 06/2023</span>
+
+**Bachelor of Science in Statistics**, [Department of Statistics and Data Science]([https://www.sem.tsinghua.edu.cn/](http://www.stat.tsinghua.edu.cn/)) <span style="float: right;">09/2020 - 06/2023</span>
 
 Getting started
 ======
