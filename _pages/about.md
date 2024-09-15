@@ -28,7 +28,7 @@ Education
 
 **Bachelor of Management in Information Management and Information Systems**, [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) <span style="float: right;">08/2019 - 06/2023</span>
 
-**Bachelor of Science in Statistics**, [Department of Statistics and Data Science]([https://www.sem.tsinghua.edu.cn/](http://www.stat.tsinghua.edu.cn/)) <span style="float: right;">09/2020 - 06/2023</span>
+**Bachelor of Science in Statistics**, [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/) <span style="float: right;">09/2020 - 06/2023</span>
 
 Getting started
 ======
