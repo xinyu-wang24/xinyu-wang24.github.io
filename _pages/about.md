@@ -13,7 +13,9 @@ This is Xinyu Wang (汪欣宇) from Faculty of Business and Economics, The Unive
 
 Education
 ======
-[The University of Hong Kong](https://www.hku.hk/) (HKU) \hfill 2024.09 - Present
+[The University of Hong Kong](https://www.hku.hk/) (HKU) 
+
+**Ph.D. Student**, [Faculty of Business and Economics (HKU Business School)](https://www.hkubs.hku.hk/) <span style="float: right;">09/2024 - Present</span>
 
 <p align="right">2024.09 - Present</p>
 
