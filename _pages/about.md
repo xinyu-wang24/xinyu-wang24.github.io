@@ -13,8 +13,7 @@ Prior to joining HKU, I received my master's degree from The London School of Ec
 
 You may contact me a via email: **xinyu-wang24 at connect.hku.hk**
 
-Education
-======
+# Education
 - **The University of Hong Kong** ([HKU](https://www.hku.hk/)) <span style="float: right;">09/2024 - Present</span>
 
 
@@ -31,8 +30,7 @@ Bachelor of Management in Information Management and Information Systems (Major 
 
 Bachelor of Science in Statistics (Minor Degree), [Department of Statistics and Data Science](http://www.stat.tsinghua.edu.cn/) (formerly known as Center for Statistical Science)
 
-Honors
-======
+# Honors
 - HKU Presidential PhD Scholarship, 2024
 - Outstanding graduate of Tsinghua University, 2023
 - THU Comprehensive Excellence Scholarship, 2022
