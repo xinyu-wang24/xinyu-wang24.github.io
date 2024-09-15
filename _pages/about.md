@@ -18,12 +18,12 @@ Education
 
 Ph.D. Student, [Faculty of Business and Economics (HKU Business School)](https://www.hkubs.hku.hk/) 
 
--**The London School of Economics and Political Science** ([LSE](https://www.lse.ac.uk/)) <span style="float: right;">08/2019 - 06/2023</span>
+-**The London School of Economics and Political Science** ([LSE](https://www.lse.ac.uk/)) <span style="float: right;">09/2023 - 07/2024</span>
 
 
-Master of Science in Statistics, [Department of Statistics](https://www.lse.ac.uk/statistics) <span style="float: right;">09/2023 - 07/2024</span>
+Master of Science in Statistics, [Department of Statistics](https://www.lse.ac.uk/statistics) 
 
--**Tsinghua University** ([THU](https://www.tsinghua.edu.cn/)) 
+-**Tsinghua University** ([THU](https://www.tsinghua.edu.cn/)) <span style="float: right;">08/2019 - 06/2023</span>
 
 Bachelor of Management in Information Management and Information Systems (Major Degreee), [School of Economics and Management](https://www.sem.tsinghua.edu.cn/) 
 
