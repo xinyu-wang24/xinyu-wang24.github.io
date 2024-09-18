@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the homepage of Xinyu Wang (汪欣宇). I am currently a Ph.D. student in Faculty of Business and Economics, The University of Hong Kong. My supervisor is Prof. Xinghao Qiao (view his [homepage](https://www.hkubs.hku.hk/people/xinghao-qiao/)), and we are also in the statistics group from the area of Innovation and Information Management (view the group [homepage](https://hkubs-stat.github.io/)). 
+Welcome to the homepage of Xinyu Wang (汪欣宇). I am currently a Ph.D. student in Faculty of Business and Economics, The University of Hong Kong. My supervisor is Prof. Xinghao Qiao (view his [homepage](https://www.hkubs.hku.hk/people/xinghao-qiao/)), and we are also in the statistics group from the research area of Innovation and Information Management (view the group [homepage](https://hkubs-stat.github.io/)). 
 
 Prior to joining HKU, I received my master's degree from The London School of Economics and Political Science and bachelor's degree from Tsinghua University. You can find the detailed educational background in the sections below.
 
@@ -32,7 +32,7 @@ Bachelor of Science in Statistics (Minor Degree), [Department of Statistics and 
 
 # Honors
 - HKU Presidential PhD Scholarship, 2024
-- Outstanding graduate of Tsinghua University, 2023
+- Outstanding Graduate of Tsinghua University, 2023
 - THU Comprehensive Excellence Scholarship, 2022
 - THU Social Work Excellence Scholarship, 2021
 
